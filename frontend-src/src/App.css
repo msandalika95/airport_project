@@ -1,0 +1,67 @@
+body {
+    background-image: url('../src/images/wall.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  
+  }
+  
+  .container {
+    
+    position: fixed;
+    height: 450px;
+    width: 21%;
+    bottom: 15%;
+    right: 15%;
+    
+  
+  }
+  
+  
+   .nic {
+    text-align: center;
+    border: 1px solid rgb(26, 13, 71);
+    width: 98%; 
+    height: 30px; 
+    border-radius: 5px;
+    margin-top: 200px;
+    background-color: #e2c8b6;
+    
+  }
+  
+    .telnumber {
+    text-align: center;
+    border: 1px solid rgb(26, 13, 71);
+    width: 98%; 
+    height: 30px; 
+    margin-top: 2px; 
+    border-radius: 5px;
+    background-color: #e2c8b6;
+  
+
+   }
+  
+   .second .btn1 {
+    width: 100%;
+    cursor: pointer;
+    padding: 3%;
+    color:rgb(26, 13, 71);
+    margin-top: 40px;
+    border-radius: 5px; 
+    border: 1px solid rgb(26, 13, 71);
+    background-color: #e2c8b6;
+  
+   }
+  
+  
+   .position .btn1 {
+     margin-top: 350px;
+   }
+   
+  
+  .homeForm1{
+    background-color: #9acd32;
+    height: 1000px;
+    width: 600px;
+  
+  }
